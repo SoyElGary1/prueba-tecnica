@@ -7,3 +7,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # prueba-tecnica
+
+
+
+Facts Random: https://catfact.ninja/fact
+
+Imagen random: https://cataas.com/cat/says/hello
+
+Recupera un hecho aleatorio de gatos de la primera API
+
+Recuperar la primera palabra del hecho
+
+Muestra una imagen de un gato con la primera palabra.
